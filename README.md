@@ -1,16 +1,54 @@
-### Hi there 👋
+![Hola, mi nombre es Matias Filliez y soy FullStack Developer](./src/banner.gif)
 
-<!--
-**MatiasFilliez/MatiasFilliez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Soy un Full Stack Developer con experiencia en desarrollo de aplicaciones Front-End y Back-End
 
-Here are some ideas to get you started:
+#### que busca seguir ampliando conocimientos asi sea en un equipo o de manera autodidacta.😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Actualmente estoy buscando trabajo 👋
+
+---
+
+## Contactame:
+
+[Linkedin](https://www.linkedin.com/in/matias-filliez-fullstackdeveloper/)
+
+---
+
+## Mi Stack de tecnologias:
+
+- JavaScript
+- TypeScript
+- React
+- Redux
+- Node.Js
+- Express
+- PostgresSQL
+- Sequelize
+
+---
+
+## Proyecto Individual Full Stack realizado
+
+#### LANDING PAGE:
+
+![Landing Page](./src/LandingPage.jpg)
+
+---
+
+#### MAIN PAGE:
+
+## ![Main Page](./src/MainPage.jpg)
+
+---
+
+#### DETAIL PAGE:
+
+![Detail Page](./src/Details.jpg)
+
+---
+
+#### CREATEACTIVITY PAGE:
+
+![CreateActivity Page](./src/CreateActivity.jpg)
