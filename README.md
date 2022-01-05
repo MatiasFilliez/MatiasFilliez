@@ -1,4 +1,4 @@
-![Hola, mi nombre es Matias Filliez y soy FullStack Developer](./src/banner.png)
+![Hola, mi nombre es Matias Filliez y soy FullStack Developer](https://github.com/MatiasFilliez/MatiasFilliez/blob/main/src/Banner.png)
 
 #### Soy un Full Stack Developer con experiencia en desarrollo de aplicaciones Front-End y Back-End
 
