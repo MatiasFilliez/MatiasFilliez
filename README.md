@@ -6,7 +6,7 @@
 
 ---
 
-### Actualmente estoy buscando trabajo 👋
+### Actualmente estoy trabajando en el proyecto final del HenryBootcamp 👋
 
 ---
 
