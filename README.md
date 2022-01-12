@@ -1,8 +1,8 @@
 ![Hola, mi nombre es Matias Filliez y soy FullStack Developer](https://github.com/MatiasFilliez/MatiasFilliez/blob/main/src/Banner.png)
 
 #### Soy un Full Stack Developer con experiencia en desarrollo de aplicaciones Front-End y Back-End
-
-#### que busca seguir ampliando conocimientos asi sea en un equipo o de manera autodidacta.😊
+#### que busca seguir ampliando conocimientos asi sea en un equipo o de manera autodidacta 
+#### para poder plasmarlo en un equipo real de trabajo.😊
 
 ---
 
