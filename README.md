@@ -2,7 +2,7 @@
 
 #### Soy un Full Stack Developer con experiencia en desarrollo de aplicaciones Front-End y Back-End
 #### que busca seguir ampliando conocimientos asi sea en un equipo o de manera autodidacta 
-#### para poder plasmarlo en un equipo real de trabajo.😊
+#### para poder plasmarlo en un escenario real de trabajo.😊
 
 ---
 
