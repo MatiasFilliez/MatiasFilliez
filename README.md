@@ -26,6 +26,8 @@
 - Express
 - PostgresSQL
 - Sequelize
+- Mongoose
+- MongoDb
 
 ---
 
