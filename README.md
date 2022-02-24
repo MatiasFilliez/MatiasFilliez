@@ -6,7 +6,7 @@
 
 ---
 
-### Actualmente estoy trabajando en el proyecto final del HenryBootcamp 👋
+#### Actualmente estoy trabajando en el proyecto final del HenryBootcamp 👋
 
 ---
 
