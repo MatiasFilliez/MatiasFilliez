@@ -6,7 +6,7 @@
 
 ---
 
-#### Actualmente estoy trabajando en el proyecto final del HenryBootcamp 👋
+#### Actualmente estoy trabajando como desarrollador Front-End (Angular) en America Virtual S.A👋
 
 ---
 
@@ -20,6 +20,7 @@
 
 - JavaScript
 - TypeScript
+- Angular
 - React
 - Redux
 - Node.Js
